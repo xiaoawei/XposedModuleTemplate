@@ -1,6 +1,3 @@
-
-
-
-
-// created with XposedModuleTemplate by dvdandroid
-// http://github.com/dvdandroid/XposedModuleTemplate
+dependencies {
+     provided files('lib/XposedBridgeApi-54.jar')
+}
